@@ -18,6 +18,17 @@ This project is a **web-based OCR demo** that leverages **EasyOCR** and an intel
   - Agent-enhanced final output
 - **Processed Image Preview:** Check intermediate preprocessing results in real time.
 
+### Gradio UI
+![Gradio UI](examples/ui_example_image.png)
+
+### Agent Answer
+![Agent1](examples/agent1.png)
+![Agent2](examples/agent2.png)
+
+### Processed Images
+![Processed_Images](examples/images_processed.png)
+
+
 ## Installation
 
 Install the required dependencies:
